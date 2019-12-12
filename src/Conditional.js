@@ -9,7 +9,7 @@ function Conditional(props) {
         } else {
     return(
             <h1>
-                go on  nothing last forever as far as you can breatheee
+                go on  nothing last forever as far as you can breathe
             </h1>
     )
     }
