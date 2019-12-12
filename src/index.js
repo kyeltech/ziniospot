@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import NewForms from './NewForms'
+import FormContainer from './FormContainer'
 // import Forms from './Forms'
 // import FetchData from './FetchData'
 // import Event from './Event'
@@ -16,4 +16,4 @@ import NewForms from './NewForms'
 
 
 
-ReactDOM.render(< NewForms/>, document.getElementById('root'))
+ReactDOM.render(< FormContainer/>, document.getElementById('root'))
